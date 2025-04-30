@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "white-voice-1429",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "cbf049e1-ccdf-4d95-bb8c-4de24490af7d",
+      "database_name": "dry-darkness-79b5-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
